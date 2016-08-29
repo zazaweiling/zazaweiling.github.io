@@ -1,0 +1,15 @@
+body {
+  font-family: "Open Sans", cwTeXYen , sans-serif;
+}
+
+.box{
+  border: 2px solid gray;
+              /*框線 灰*/
+  padding: 0px 0px 20px 0px
+}
+
+hr {
+  border: 2px solid blue ;
+  width: 80%;
+}
+
